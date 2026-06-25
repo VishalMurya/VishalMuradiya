@@ -81,7 +81,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: gauravsirari890@gmail.com
+- 📧 Email: vk589268@mail.com
 
 ---
 
