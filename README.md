@@ -1,18 +1,19 @@
-# Hi 👋 I'm Gaurav
+# Hi 👋 I'm Vishal Muradiya
 
-🚀 Data Science Student
-💻 Passionate about Machine Learning, Data Analysis  
-📊 Skilled in Python, SQL, Power BI, Excel
-
----
-
-## 🧠 About Me
-- 🎓 Currently learning Data Science
-- 🤖 Building Machine Learning projects
-- 📊 Love working with data & extracting insights
-- 🚀 Exploring NLP & Deep Learning
+🎓 Data Science & Analytics Enthusiast  
+📊 Transforming Data into Actionable Insights  
+🐍 Python | SQL | Power BI | Machine Learning  
+🤖 Building Predictive Models & Data-Driven Solutions  
+📈 Passionate About Analytics, Visualization & AI
 
 ---
+
+### Currently Working On
+- Machine Learning Projects
+- Data Analysis & Visualization
+- Predictive Analytics
+- NLP & Deep Learning
+--- 
 
 ## 🛠️ Tech Stack
 
